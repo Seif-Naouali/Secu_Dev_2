@@ -136,12 +136,12 @@ options:
 
 [+]usage:
 
-./cve-2017-12617.py -u http://127.0.0.1
-./cve-2017-12617.py --url http://127.0.0.1
-./cve-2017-12617.py -u http://127.0.0.1 -p pwn
-./cve-2017-12617.py --url http://127.0.0.1 -pwn pwn
-./cve-2017-12617.py -l hotsts.txt
-./cve-2017-12617.py --list hosts.txt
+./cve-2017.py -u http://127.0.0.1
+./cve-2017.py --url http://127.0.0.1
+./cve-2017.py -u http://127.0.0.1 -p pwn
+./cve-2017.py --url http://127.0.0.1 -pwn pwn
+./cve-2017.py -l hotsts.txt
+./cve-2017.py --list hosts.txt
 
 
 [@intx0x80]
