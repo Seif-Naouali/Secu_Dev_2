@@ -10,6 +10,5 @@ By design, you are not allowed to upload JSP files via the PUT method on the Apa
 
 after installing the VagrantFile : start with 
 
-vagrant init NaoualiSeif/Seif \
-  --box-version 2.0.0
+vagrant init NaoualiSeif/Seif 
 vagrant up
